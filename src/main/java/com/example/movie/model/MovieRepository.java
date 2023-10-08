@@ -1,6 +1,5 @@
-package com.example.movie.model.dao;
+package com.example.movie.model;
 
-import com.example.movie.model.dto.Movie;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

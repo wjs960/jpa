@@ -1,8 +1,5 @@
 package com.example.movie.model;
 
-import com.example.movie.model.dto.MovieDTO;
-import com.example.movie.model.dto.MovieDate;
-import com.example.movie.model.service.MovieServiece;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
