@@ -1,4 +1,4 @@
-package com.example.movie.model.dto;
+package com.example.movie.model;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;

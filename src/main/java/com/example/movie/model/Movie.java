@@ -1,9 +1,7 @@
-package com.example.movie.model.dto;
-
-import com.example.movie.model.MovieRole;
+package com.example.movie.model;
 
 import javax.persistence.*;
-import java.time.LocalDateTime;
+
 @Entity
 @Table(name = "TBL_MOVIE")
 public class Movie {

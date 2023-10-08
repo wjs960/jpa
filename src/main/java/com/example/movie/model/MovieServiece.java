@@ -1,9 +1,5 @@
-package com.example.movie.model.service;
+package com.example.movie.model;
 
-import com.example.movie.model.dao.MovieRepository;
-import com.example.movie.model.dto.Movie;
-import com.example.movie.model.dto.MovieDTO;
-import com.example.movie.model.dto.MovieDate;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
